@@ -73,7 +73,7 @@ h1 {
 .between {
   font-size: 1.4rem;
   position: absolute;
-  top: 1rem;
+  top: 2rem;
   right: 2rem;
 }
 
@@ -126,9 +126,6 @@ h1 {
   }
   h1 {
     margin: 10px;
-  }
-  .btn {
-    padding: 1rem;
   }
   .label-score,
   .message,
