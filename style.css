@@ -73,7 +73,7 @@ h1 {
 .between {
   font-size: 1.4rem;
   position: absolute;
-  top: 3rem;
+  top: 2rem;
   right: 2rem;
 }
 
@@ -122,11 +122,17 @@ h1 {
 @media only screen and (max-width: 500px) {
   .guess {
     width: 12rem;
+    font-size: 2rem;
   }
   h1 {
     margin: 10px;
   }
   .btn {
     padding: 1rem;
+  }
+  .label-score,
+  .message,
+  .label-highscore {
+    padding-left: 1rem;
   }
 }
