@@ -126,4 +126,7 @@ h1 {
   h1 {
     margin: 10px;
   }
+  .btn {
+    padding: 1rem;
+  }
 }
